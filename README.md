@@ -4,6 +4,7 @@ A simple, fast, and secure **Random Password Generator** built using **HTML, CSS
 This project allows users to generate strong random passwords and copy them to the clipboard with a single click.
 
 ---
+## live demo: https://mjunaid65665.github.io/Random-Password-
 
 ## 🚀 Features
 
